@@ -1,0 +1,54 @@
+.first-page {
+	background: url("./images/cover.jpg");
+	background-size: cover;
+	z-index: -1;
+	min-height: 100vh;
+	width: 100%;
+}
+
+#name-header {
+	color: white;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 30px;
+	margin: 0;
+}
+
+.info {
+	padding-bottom: 10px;
+	color: white;
+	text-align: center;
+	margin: 0;
+}
+
+.icons {
+	height: 58px;
+}
+
+.icons2 {
+	height: 50px;
+}
+
+.image-icons {
+	margin-top: 10px;
+}
+
+
+.bottom1 {
+	color: white;
+}
+.bottom {
+	color: white;
+	margin: 0;
+}
+
+.bottom-stuff {
+	margin-top: 270px;
+}
+
+.second-page {
+	background-color: grey;
+	background-size: cover;
+	min-height: 100vh;
+	width: 100%;
+}

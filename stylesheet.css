@@ -1,16 +1,19 @@
 .first-page {
-	background: url("./images/cover.jpg");
+	background: url("./images/cover3.jpg");
 	background-size: cover;
 	z-index: -1;
 	min-height: 100vh;
 	width: 100%;
 }
 
+.parallax-container {
+    min-height: 100vh;
+}
+
+
 #name-header {
 	color: white;
 	text-align: center;
-	padding-top: 60px;
-	padding-bottom: 30px;
 	margin: 0;
 }
 
@@ -26,13 +29,13 @@
 }
 
 .icons2 {
-	height: 50px;
+	height: 45px;
 }
 
-.image-icons {
+/*.image-icons {
 	margin-top: 10px;
 }
-
+*/
 
 .bottom1 {
 	color: white;
@@ -42,12 +45,24 @@
 	margin: 0;
 }
 
-.bottom-stuff {
-	margin-top: 270px;
+.second-page {
+/*	background: url("./images/cover2.jpg");*/
+	background-color: #C0CAAD;
+	color: white;
+	background-size: cover;
+	z-index: -1;
+	min-height: 100vh;
+	width: 100%;
 }
 
-.second-page {
-	background-color: grey;
+.about-me {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.third-page {
+	color:black;
+	background-color: #EBFCFB;
 	background-size: cover;
 	min-height: 100vh;
 	width: 100%;

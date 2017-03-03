@@ -1,9 +1,9 @@
 .first-page {
-	background: url("./images/cover3.jpg");
+/*	background: url("./images/cover3.jpg");
 	background-size: cover;
 	z-index: -1;
 	min-height: 100vh;
-	width: 100%;
+	width: 100%;*/
 }
 
 .parallax-container {
@@ -47,8 +47,8 @@
 
 .second-page {
 /*	background: url("./images/cover2.jpg");*/
-	background-color: #C0CAAD;
-	color: white;
+	background-color: #EBFCFB;
+	color: black;
 	background-size: cover;
 	z-index: -1;
 	min-height: 100vh;
@@ -62,8 +62,20 @@
 
 .third-page {
 	color:black;
-	background-color: #EBFCFB;
+	background-color: #B8DBD9;
 	background-size: cover;
 	min-height: 100vh;
 	width: 100%;
+}
+
+.contact-page {
+	color:black;
+	background-color: white;
+	background-size: cover;
+	min-height: 20vh;
+	width: 100%;
+}
+
+.projects{
+	margin: 0;
 }

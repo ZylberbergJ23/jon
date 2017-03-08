@@ -40,10 +40,12 @@
 .bottom1 {
 	color: white;
 }
+
 .bottom {
 	color: white;
 	margin: 0;
 }
+
 
 .second-page {
 /*	background: url("./images/cover2.jpg");*/
@@ -78,4 +80,31 @@
 
 .projects{
 	margin: 0;
+}
+
+
+#arrow {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: black;
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    border-radius: 50px;
+    opacity: .5;
+}
+
+#arrow i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+}
+
+#arrow:hover i {
+    top: 5px;
 }

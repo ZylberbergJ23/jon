@@ -4061,7 +4061,7 @@ nav .brand-logo {
   position: absolute;
   color: black;
   display: inline-block;
-  font-size: 2.1rem;
+  font-size: 2.7rem;
   padding: 0;
   white-space: nowrap;
 }
@@ -4126,7 +4126,7 @@ nav ul li.active {
 
 nav ul a {
   transition: background-color .3s;
-  font-size: 1rem;
+  font-size: 1.4rem;
   color: #fff;
   display: block;
   padding: 0 5px;
@@ -4299,7 +4299,7 @@ h2 {
 h3 {
   font-size: 2.92rem;
   line-height: 110%;
-  margin: 1.46rem 0 1.168rem 0;
+/*  margin: 1.46rem 0 1.168rem 0;*/
 }
 
 h4 {
